@@ -1,0 +1,61 @@
+<template>
+  <div class="main-container">
+    <div class="root">
+      <div class="groups">
+        <div class="background">
+          <div class="groups-1">
+            <span class="info-heading"
+              >Under which heading can you find information about the beats<br />in
+              music?</span
+            ><span class="music-rhythm">"Music is Rhythm"</span>
+          </div>
+        </div>
+        <div class="background-2"></div>
+        <div class="groups-3">
+          <div class="flex-row">
+            <span class="under-which">Under which</span
+            ><span class="heading-facts-author"
+              >heading could you find facts about the author?</span
+            >
+          </div>
+          <span class="meet-author-illustrator"
+            >"Meet the Author and Illustrator"</span
+          >
+        </div>
+        <div class="background-4">
+          <span class="look-illustrations"
+            >Look at the illustrations in this section. What information do
+            the<br />y give?</span
+          ><span class="beat-patterns"
+            >They tell about different beat patterns.</span
+          >
+        </div>
+        <div class="groups-5"></div>
+      </div>
+      <div class="groups-6">
+        <div class="flex-row-cbd">
+          <span class="cheat-network">cheatnetwork.eu</span>
+          <div class="image"></div>
+          <div class="background-7"></div>
+          <div class="background-8"></div>
+          <div class="background-9"></div>
+        </div>
+        <div class="flex-row-b">
+          <span class="quizizz-cheat-h"
+            >Quizizz Cheat, Hack, Answers and Solv...</span
+          ><span class="the-best-school"
+            >The Best School Hacks and Cheats- C...</span
+          ><span class="get-premium-che">Get premium- Cheat Network</span>
+          <div class="image-a"></div>
+          <div class="image-b"></div>
+          <div class="image-c"></div>
+        </div>
+      </div>
+    </div>
+    <div class="background-d"></div>
+  </div>
+</template>
+
+<script setup lang="javascript"></script>
+
+<style src="./index.css"></style>
